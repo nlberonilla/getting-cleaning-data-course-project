@@ -16,3 +16,4 @@ The data set `step5tidy.txt` was created by running the `run_analysis.R`, which 
 * converts the activity into factor variable (labeled step 3)
 * renames variables names into intuitive names (labeled step 4)
 * computes averages of each measurement by activity and subject and save into separate file (labeled step 5)
+All functions used are from base package
